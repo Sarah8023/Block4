@@ -1,0 +1,29 @@
+/*CSS Styling of the webpage*/
+Body {
+  margin: 0%;
+}
+
+.navbar {
+    width: 200%;
+  }
+  
+  /*CSS Styling of the button*/
+  .btn{
+    background: #FF6600;
+    font-weight: bolder;
+    display: inline-block;
+    text-transform: uppercase;
+    margin-left: -0%;
+    color: whitesmoke;
+    border-radius: 0.2rem;
+    padding: 10px;
+    }
+    /*CSS Styling of the button hover*/
+.btn:hover{
+    background: #333333;
+    letter-spacing: 2px;
+    transition: 0.2s;
+}
+  h2{
+    color: #FF6633;
+  }
